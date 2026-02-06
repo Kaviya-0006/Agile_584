@@ -12,6 +12,6 @@ def view_students():
         for s in students:
             print(f"{s['roll_no']} - {s['name']}")
 
-# Daily update example
-add_student("Alice", 101)
+
+add_student("Yuri Hanamichi", 122)
 view_students()
