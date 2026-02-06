@@ -1,4 +1,4 @@
 def add_book(name):
-    print(f"Book added: {name}")
+    print(f"New book entry: {name}")
 
 add_book("Python Basics")
