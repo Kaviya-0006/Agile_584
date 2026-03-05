@@ -5,3 +5,4 @@ print("Sum is",(c))
 d=int(input("Enter 3rd value"))
 e=c+d
 print("Sum is",(e))
+print("sum os 3 value is",e)
