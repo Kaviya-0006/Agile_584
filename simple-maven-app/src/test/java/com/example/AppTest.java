@@ -6,5 +6,4 @@ public class AppTest {
  public void testAdd() {
  App app = new App();
  assertEquals(5, app.add(2, 3));
- }
-}
+ }}
